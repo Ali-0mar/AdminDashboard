@@ -1,0 +1,21 @@
+
+D
+server/data/index.js,3\4\343dc0e80416734e4ac54e8bf83194f312438f93
+D
+client/src/index.css,7\5\751657f4fd5a737220a43ddd2ad7926446725c56
+I
+client/src/state/index.js,8\8\88be8a94eeb27beb23f48b767efb29260d85a5a5
+A
+client/src/App.js,f\6\f6b8a135eb07bb80aa582994bcf1a8ccacd783ee
+R
+"client/src/scenes/layout/index.jsx,6\3\63165f7f632d3440cbe24170ef5e8b5faab07ca4
+U
+%client/src/components/FlexBetween.jsx,f\4\f40ec6da576d05c685c8f490f84aa7b9283e15cb
+U
+%client/src/scenes/dashboard/index.jsx,b\5\b51fd9e12da6fb78280620e219aadabf74a0d839
+D
+client/src/theme.jsx,a\9\a9d337e636dbf72ee3109db08feb451c59535070
+C
+client/src/index.js,7\6\76cbb38a5cef42611c7af13985f39248682f4aa1
+P
+ client/src/components/Navbar.jsx,3\e\3e7dfb7d5940a8777bb74ab40b647745a5ec95dc
